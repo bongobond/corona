@@ -1,5 +1,5 @@
 site: Corona Articles
-url: #yoururl
+url: https://bongobond.github.io
 title: Corona
 description: List of articles on Corona Virus.
 twitter:
@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "corona"
+baseurl: /corona
 
 highlighter: none
 
